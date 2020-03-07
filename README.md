@@ -1,2 +1,3 @@
 # GroupWork
 In class activity class 1.3
+Robinhoods no fee structure allows users to easliy enter into trading with minimal capital required to get started compared to other companies that have minimal account requirerments. Although it comes at a price to short term investors trying to develope models for entering and exiting by dark pooling the user making it difficult to gain profits, but for long term and new investors this is a great platform for learning the curve and testing your ability to buy solid stocks. 
